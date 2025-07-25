@@ -1,0 +1,10 @@
+Flask
+python-dotenv
+langchain
+faiss-cpu
+sentence-transformers
+groq
+streamlit
+requests
+langchain_huggingface
+langchain_groq 
